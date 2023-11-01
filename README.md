@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨‍💻 My technical skills include React, Next, Javascript, Typescript, Node, Nest, Cypress, Redux, PostgreSQL, ...
+- 👨‍💻 My technical skills include React, Next, Javascript, Typescript, Node, Nest, Redux, PostgreSQL, Playwright, ...
 - 🐈 I'm a cat daddy with two Siberians named Snufkin and Mymble 🐈.
 - 🏗️ I co-founded and developed the frontend for [OptiMarket](https://optimarket.io/), an NFT marketplace application to browse, buy, sell, and bid on digital collectables. We open-sourced the web-interface repository in June 2022, you can find it [here](https://github.com/opti-market/web-interface).
 - 👯 I’m open to collaborating on React, Next, Typescript, and Node projects.
